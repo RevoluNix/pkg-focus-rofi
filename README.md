@@ -1,1 +1,1 @@
-# pkgs-template
+# focus-rofi
